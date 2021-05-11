@@ -1,1 +1,1 @@
-[Java Challenge Instructions](instructions)
+[Java Challenge Instructions](Java Challenge)
