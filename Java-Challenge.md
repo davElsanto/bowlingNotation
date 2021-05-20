@@ -114,9 +114,6 @@ Carl 10
 - SRP: Single Responsibility Principle (Classes are self contained. They do the task they need to do and nothing else).
 - Liskov’s Substitution Principle: Interfaces (OOP, Swap principle.. Makes the program able to be extended).
 - Dependency Inversion Principle: Code should depend on interfaces, no concrete implementations.
-- Coupled code: If code has too few classes we should not accept this candidate, even if the program works perfectly. Code violates SRP, classes demonstrate mixed concerns. Bad OOP in general.
-- Abuse of static and singleton: Usually this indicates a junior candidate since this makes difficult to use the Substitution Principle.
-- Duplicated code: Reused code should be encapsulated.
 - Include well-known libraries and good use of the JDK API.
 - Build mechanism (gradle, maven, shell, NO IDE). Program should compile and run out of the box.
 - Packaging complete. Zip should contain a readme file explaining how to compile the project, and contain the test text file to check the output
