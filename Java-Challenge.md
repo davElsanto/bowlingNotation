@@ -1,6 +1,6 @@
 ## Description
 
-This project is designed to test your knowledge of back-end web technologies, specifically in Java and assess your ability to create back-­end products with attention to details, standards, and re-usability.
+This project is designed to test your knowledge of the Java language, and assess your ability to create back-­end products with attention to details, standards, and re-usability.
 
 ## Assignment
 
