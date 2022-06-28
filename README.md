@@ -27,6 +27,9 @@ OS name: "linux", version: "5.15.49-1-manjaro", arch: "amd64", family: "unix"
 ```
 
 ## Build Instructions
+*Updated*
+All code updated in branch `master`
+
 Verify you are in branch `davisantos_bowling`
 ```sh
 git branch
